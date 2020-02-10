@@ -2,6 +2,8 @@
 
 This is an exercise to help you become accustomed to how Godot treats user input.
 
+Added a live output to the mouse x and y position label. Also added standard WASD input controls for the ship.
+
 Instructions are as follows:
  - Fork and Clone this repository. Choose a location where it will be downloaded on your computer.
  - Open Godot. In the Project Manager, select "Import".
